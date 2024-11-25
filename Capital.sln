@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalGains", "CapitalGains\CapitalGains.csproj", "{74F9AE11-88E2-4083-9E82-972D53AFC1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalGains.Tests", "CapitalGains.Tests\CapitalGains.Tests.csproj", "{2682BAEC-655C-43CC-9C95-C514B131EC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F9AE11-88E2-4083-9E82-972D53AFC1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F9AE11-88E2-4083-9E82-972D53AFC1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F9AE11-88E2-4083-9E82-972D53AFC1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F9AE11-88E2-4083-9E82-972D53AFC1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2682BAEC-655C-43CC-9C95-C514B131EC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2682BAEC-655C-43CC-9C95-C514B131EC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2682BAEC-655C-43CC-9C95-C514B131EC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2682BAEC-655C-43CC-9C95-C514B131EC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+## .NET Core
+# VS for Mac and Visual Studio for Mac
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer Logs
+*.log
+
+# User-specific files
+.vs/
+.vs2017/
+.vs2019/
+.vs2015/
+.vscode/
+.idea/
+
+# User-specific config files
+.idea/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]ebug-*.-/
+[Dd]ebug.*
+bin/
+obj/
+out/
+
+# User-specific files
+appsettings.Development.json
+appsettings.json
