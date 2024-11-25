@@ -32,7 +32,7 @@ Este é um projeto de cálculo de imposto sobre o ganho de capital de operaçõe
 
    dotnet run
 
-Já existe um arquivo input.txt na pasta bin com algumas entradas para o programa gere a saída esperada.
+Já existe um arquivo input.txt na pasta bin com algumas entradas para o programa gere a saída esperada. Caso queira editar a entrada do programa, basta acessar o diretório bin e alterar o arquivo input.txt.
 
 # Como Testar
 
